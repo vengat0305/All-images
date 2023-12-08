@@ -14,7 +14,7 @@ html {
 
 body {
   background-color: #121212;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 
 .sidebar {
@@ -41,10 +41,10 @@ body {
   font-weight: 900;
   font-size: 12px;
 }
-.sidebar .navigation ul li a:hover{
+.sidebar .navigation ul li a:hover {
   color: #ffffff;
 }
-.sidebar .navigation ul li a:hover .fa{
+.sidebar .navigation ul li a:hover .fa {
   color: #b3b3b3;
 }
 .sidebar .navigation ul li .fa {
@@ -54,7 +54,7 @@ body {
 .sidebar .navigation ul li a:hover .fa:hover {
   color: #ffffff;
 }
-.policies{
+.policies {
   display: flex;
   flex-direction: row;
 }
@@ -74,7 +74,7 @@ body {
   text-decoration: none;
   font-size: 10px;
 }
-.sidebar .policies ul li a:hover{
+.sidebar .policies ul li a:hover {
   text-decoration: underline;
 }
 
@@ -111,14 +111,14 @@ body {
   margin: 0px 8px;
   width: 70px;
 }
-.topbar .navbar ul li a{
+.topbar .navbar ul li a {
   color: #b3b3b3;
   text-decoration: none;
   font-weight: bold;
   font-size: 14px;
   letter-spacing: 1px;
 }
-.topbar .navbar ul li a:hover{
+.topbar .navbar ul li a:hover {
   color: #ffffff;
   font-size: 15px;
 }
@@ -235,10 +235,9 @@ body {
   border-radius: 40px;
   cursor: pointer;
 }
-.preview .button :hover{
+.preview .button :hover {
   background-color: #19f62c;
 }
-
 
 @media screen and (min-width: 576px) {
 }
